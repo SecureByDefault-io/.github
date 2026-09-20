@@ -1,6 +1,6 @@
 # SecureByDefault
  
-### Learn Linux, cybersecurity, and cloud skills without the fake hacker drama.
+### Learn Linux, cybersecurity, and cloud skills.
  
 SecureByDefault is a practical learning project for people building real-world IT, Linux, cybersecurity, and cloud skills.
  
