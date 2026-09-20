@@ -1,29 +1,29 @@
 # SecureByDefault
-
+ 
 ### Learn Linux, cybersecurity, and cloud skills without the fake hacker drama.
-
+ 
 SecureByDefault is a practical learning project for people building real-world IT, Linux, cybersecurity, and cloud skills.
-
+ 
 The goal is simple:
-
+ 
 **Give beginners a clear path from "I want to learn this" to "I can actually do this."**
-
-No confusing roadmaps.  
-No fear-mongering.  
+ 
+No confusing roadmaps.
+No fear-mongering.
 No pretending you need to know everything before you start.
-
+ 
 ---
-
+ 
 ## 🚀 Start Here
-
-### securebydefault-learning-paths
-
+ 
+### [securebydefault-learning-paths](https://github.com/SecureByDefault-io/securebydefault-learning-paths)
+ 
 A free, structured learning path for people building the fundamentals needed for IT, cybersecurity, and cloud roles.
-
+ 
 The curriculum is designed to start with shared foundations and expand into role-specific skills.
-
+ 
 Current and planned areas include:
-
+ 
 - 🐧 Linux fundamentals
 - 🌐 Networking fundamentals
 - 🖥️ IT support and troubleshooting
@@ -34,15 +34,16 @@ Current and planned areas include:
 - 🛠️ Hands-on projects
 - 💬 Interview preparation
 - 📁 Portfolio-building ideas
-
+**[Browse the repo →](https://github.com/SecureByDefault-io/securebydefault-learning-paths)**
+ 
 ---
-
+ 
 ## 🐧 Linux Without Panic
-
+ 
 Linux is one of the main starting points for SecureByDefault.
-
+ 
 Beginner topics include:
-
+ 
 - Terminal navigation
 - Files and directories
 - `pwd`, `ls`, and `cd`
@@ -56,41 +57,40 @@ Beginner topics include:
 - SSH
 - Basic networking
 - Server security
-
 You do not need to memorize every Linux command.
-
+ 
 You need to understand how to find your way around, troubleshoot problems, and know what to learn next.
-
+ 
 ---
-
+ 
 ## 🧭 Learning Philosophy
-
+ 
 SecureByDefault focuses on three things:
-
+ 
 ### Learn
-
+ 
 Understand the concept in plain English.
-
+ 
 ### Practice
-
+ 
 Use the skill in a real terminal, lab, or troubleshooting scenario.
-
+ 
 ### Explain
-
+ 
 Be able to describe what you did and why.
-
+ 
 That last part matters.
-
+ 
 Technical skills are useful. Being able to troubleshoot, communicate, and explain your thinking makes them much more valuable.
-
+ 
 ---
-
+ 
 ## 🧪 Hands-On Learning
-
+ 
 The learning paths are designed to include more than reading.
-
+ 
 Expect:
-
+ 
 - Small terminal exercises
 - Troubleshooting scenarios
 - Log analysis
@@ -99,17 +99,16 @@ Expect:
 - Cloud and server exercises
 - Interview questions
 - Practical projects
-
 The goal is not just to finish a checklist.
-
+ 
 The goal is to build skills you can demonstrate.
-
+ 
 ---
-
+ 
 ## 🎯 Who This Is For
-
+ 
 SecureByDefault is built for:
-
+ 
 - IT support professionals building deeper technical skills
 - Help desk workers moving toward cybersecurity or cloud
 - Beginners learning Linux
@@ -117,37 +116,28 @@ SecureByDefault is built for:
 - Cloud learners who want to understand what happens underneath the platform
 - Career changers looking for a structured place to start
 - Anyone tired of random tutorials with no clear next step
-
 ---
-
+ 
 ## 📚 Free Resources
-
-### Linux Starter Kit
-
+ 
+### [Linux Starter Kit](https://securebydefault.io/linux-starter-kit)
+ 
 A beginner-friendly introduction to Linux commands, logs, permissions, setup options, and basic server security.
-
-Available at:
-
-**securebydefault.io/linux-starter-kit**
-
-### The SecureByDefault Brief
-
+ 
+### [The SecureByDefault Brief](https://newsletter.securebydefault.io)
+ 
 Weekly practical lessons covering Linux, cybersecurity, cloud, and IT support.
-
-**newsletter.securebydefault.io**
-
-### SecureByDefault
-
+ 
+### [SecureByDefault](https://securebydefault.io)
+ 
 Articles, walkthroughs, labs, tools, and beginner resources.
-
-**securebydefault.io**
-
+ 
 ---
-
+ 
 ## 🎥 Learn With the Videos
-
+ 
 SecureByDefault also publishes short, practical lessons covering topics such as:
-
+ 
 - Linux commands
 - Linux permissions
 - Reading logs
@@ -156,17 +146,16 @@ SecureByDefault also publishes short, practical lessons covering topics such as:
 - Cybersecurity fundamentals
 - IT troubleshooting
 - Cloud basics
-
 The videos are designed to complement the learning paths rather than replace them.
-
+ 
 ---
-
+ 
 ## 🛣️ What's Coming
-
+ 
 The project will grow gradually.
-
+ 
 Planned areas include:
-
+ 
 - Expanded Linux Fundamentals
 - Networking Fundamentals
 - IT Support learning path
@@ -177,25 +166,23 @@ Planned areas include:
 - Interview question libraries
 - Beginner projects
 - Role-readiness paths
-
 The focus is on building useful material, not creating the biggest roadmap on the internet.
-
+ 
 ---
-
+ 
 ## 🤝 Contributing
-
-SecureByDefault is still growing.
-
-Found something unclear?
-
-Spotted a mistake?
-
-Have an idea for a better example or exercise?
-
-Issues and contributions are welcome as contribution guidelines are added to the project.
-
+ 
+SecureByDefault is still growing, and contributions are welcome.
+ 
+Before opening an issue or pull request, please read:
+ 
+- **[Contributing Guide](https://github.com/SecureByDefault-io/securebydefault-learning-paths/blob/main/CONTRIBUTING.md)**, what kinds of contributions are welcome and the quality standard for content
+- **[Code of Conduct](https://github.com/SecureByDefault-io/securebydefault-learning-paths/blob/main/CODE_OF_CONDUCT.md)**
+- **[Security Policy](https://github.com/SecureByDefault-io/securebydefault-learning-paths/blob/main/SECURITY.md)**, for reporting anything security-related
+Found something unclear, spotted a mistake, or have an idea for a better example or exercise? [Open an issue](https://github.com/SecureByDefault-io/securebydefault-learning-paths/issues/new/choose).
+ 
 ---
-
+ 
 ## 🛡️ SecureByDefault
-
+ 
 **Learn the fundamentals. Practice the skills. Understand why they matter.**
