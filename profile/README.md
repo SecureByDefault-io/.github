@@ -148,6 +148,13 @@ SecureByDefault also publishes short, practical lessons covering topics such as:
 - Cloud basics
 The videos are designed to complement the learning paths rather than replace them.
  
+Follow along here:
+ 
+- 📺 [YouTube](https://www.youtube.com/@SecureBy-Default)
+- 📷 [Instagram](https://www.instagram.com/securebydefault/)
+- 🎵 [TikTok](https://www.tiktok.com/@securebydefault.io)
+ 
+ 
 ---
  
 ## 🛣️ What's Coming
