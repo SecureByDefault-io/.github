@@ -146,6 +146,7 @@ SecureByDefault also publishes short, practical lessons covering topics such as:
 - Cybersecurity fundamentals
 - IT troubleshooting
 - Cloud basics
+  
 The videos are designed to complement the learning paths rather than replace them.
  
 Follow along here:
